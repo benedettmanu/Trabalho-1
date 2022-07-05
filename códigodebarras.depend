@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649246682 source:c:\users\usuario\documents\c++\codigo de barras\códigodebarras\main.cpp
+	<locale.h>
+	<iostream>
+
